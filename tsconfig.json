@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    //"module": "CommonJS",
+    "module": "Node16",
+    //"moduleResolution": "Node",
+    "moduleResolution": "Node16",
+    "strict": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
+ 
